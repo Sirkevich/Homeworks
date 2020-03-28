@@ -1,2 +1,2 @@
-# homeworks
+# bootstrap
 glo-academy
